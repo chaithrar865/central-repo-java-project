@@ -57,7 +57,7 @@
 
   4) Make sure JAVA_HOME is set to the location of your JDK
 
-  5) Run "mvn --version" to verify that it is correctly installed.
+  #5) Run "mvn --version" to verify that it is correctly installed.
 
   For complete documentation, see https://maven.apache.org/download.html#Installation
 
